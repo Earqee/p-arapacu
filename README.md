@@ -49,7 +49,7 @@ O projeto está organizado em vários módulos, cada um responsável por uma par
    ./huffman -d comprimido.bin
    ```
 
-## Pontos Positivos
+## Destaques
 
 - **Eficiência de Compressão:** O algoritmo de Huffman é conhecido por sua eficiência na compressão de dados, especialmente em cenários onde certos caracteres são mais frequentes do que outros.
 
@@ -63,12 +63,8 @@ O projeto está organizado em vários módulos, cada um responsável por uma par
 
 Este projeto fornece uma implementação sólida e organizada do algoritmo de compressão Huffman em C. Sinta-se à vontade para explorar, contribuir ou utilizar conforme necessário!
 
-## Contato
-
-## Instalação
-
-## API de Referência
 
 ## Agradecimentos
 
-## Licença
+Este projeto foi desenvolvido e revisado pelos discentes de Engenharia de Computação Thiago José, Hugo Tallys, Valério Nogueira e José Augusto, com revisão final pelo Prof. Dr. Márcio Ribeiro.
+
