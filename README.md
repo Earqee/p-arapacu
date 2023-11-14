@@ -1,6 +1,6 @@
 # Compressão de Huffman
 
-Este software consiste em uma implementação em C do algoritmo de compressão Huffman. O algoritmo de Huffman é um método popular para compressão de dados sem perdas, utilizado em diversas aplicações, incluindo compactação de arquivos. Esta implementação em C busca ser extremamente eficiente e eficaz para que seja usada como base no desenvolvimento de outras aplicações que manipulem dados compactados ou criptografados.
+Este implementa em C o algoritmo de compressão de Huffman. O algoritmo de Huffman é um método para compressão de dados sem perdas, utilizado em diversas aplicações, incluindo compactação de arquivos. Esta implementação em C busca ser extremamente eficiente e eficaz para que seja usada como base no desenvolvimento de outras aplicações que manipulem dados compactados ou criptografados.
 
 ## Estrutura do Projeto
 
